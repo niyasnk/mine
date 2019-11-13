@@ -6,6 +6,4 @@ do
 fact = $((fact * i))
 done
 echo"factorial is $fact"
-niyas mandan
-niyas pottan
-niyas korangan
+
